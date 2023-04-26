@@ -1,2 +1,2 @@
-# Assignments-For-HTML5-CSS-and-JavaScript-for-Web-Developers
+# HTML5-CSS-and-JavaScript-for-Web-Developers
 Assignments Solutions 
